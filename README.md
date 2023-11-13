@@ -2,6 +2,7 @@
 
 
 TubeRevo 2
+
 Bem-vindo ao TubeRevo 2 - a evolução do TubeRevolution Downloader!
 
 O TubeRevo 2 é uma aplicação aprimorada para download de vídeos e músicas do YouTube, oferecendo uma experiência intuitiva e opções de formato flexíveis para atender às suas necessidades de entretenimento.

@@ -1,7 +1,4 @@
-![icon](https://github.com/unlessifail/TubeRevo2/assets/34076730/d9f0a2dd-8371-4166-8f89-922d0f5c89e8)
-
 ![image](https://github.com/unlessifail/TubeRevo2/assets/34076730/3b4b9222-d900-4e0b-b477-7af74cf4592e)
-
 
 TubeRevo 2
 

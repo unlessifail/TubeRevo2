@@ -8,7 +8,7 @@ from pytube.exceptions import RegexMatchError
 from moviepy.editor import VideoFileClip
 
 OUTPUT_PATH = Path(__file__).parent
-ASSETS_PATH = OUTPUT_PATH / Path(r"C:\Users\kalil\Desktop\build\assets\frame0")
+ASSETS_PATH = OUTPUT_PATH / Path(r"assets")
 
 
 def relative_to_assets(path: str) -> Path:
